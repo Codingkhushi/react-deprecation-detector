@@ -14,6 +14,11 @@ Built with TypeScript AST parsing using `ts-morph` for safe, production-ready co
 - ⚡ **Fast** - Scans 100+ files in seconds
 - 📁 **Batch processing** - Handles entire projects
 
+## Demo Video 
+Project tested on React-Google-Maps
+
+https://github.com/user-attachments/assets/5f2f7517-4e81-4f18-9985-bac340a50d8a
+
 
 Important folders : 
 1. cli/src
