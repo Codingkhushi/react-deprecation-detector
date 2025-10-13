@@ -31,7 +31,6 @@ File 3 - fix-generator.ts : transforms code to fix deprecated apis
 File 4 - index.ts : main/entry file
 
 Run the following : 
-cd ~/Intelligent\ Dev\ Ai/cli
 
 npm run fix -- "./src/**/*.{tsx,jsx}" --dry-run
 
