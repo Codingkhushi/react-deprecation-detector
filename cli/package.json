@@ -1,0 +1,22 @@
+{
+  "name": "react-deprecation-detector",
+  "version": "1.0.0",
+  "description": "Automated detection and fixing of 20+ deprecated React APIs",
+  "main": "src/detector.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "detect": "ts-node src/detector.ts",
+    "fix": "ts-node src/index.ts"
+  },
+  "keywords": ["react", "deprecation", "migration", "typescript", "ast"],
+  "author": "Khushi Gupta",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^24.7.0",
+    "ts-morph": "^27.0.0",
+    "typescript": "^5.9.3"
+  }
+}

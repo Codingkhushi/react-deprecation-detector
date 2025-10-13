@@ -1,0 +1,41 @@
+[
+  {
+    "api": "componentWillMount",
+    "line": 4,
+    "file": "/Users/khushigupta/legacy-react-test/src/BadComponent.jsx",
+    "message": "Deprecated Api componentWillMount",
+    "deprecatedIn": "16.3",
+    "removedIn": "17.0",
+    "alternative": "Use componentDidMount or constructor for initialization. For server rendering, use constructor.",
+    "severity": "error"
+  },
+  {
+    "api": "componentWillReceiveProps",
+    "line": 9,
+    "file": "/Users/khushigupta/legacy-react-test/src/BadComponent.jsx",
+    "message": "Deprecated Api componentWillReceiveProps",
+    "deprecatedIn": "16.3",
+    "removedIn": "17.0",
+    "alternative": "Use static getDerivedStateFromProps or componentDidUpdate instead",
+    "severity": "error"
+  },
+  {
+    "api": "componentWillUpdate",
+    "line": 15,
+    "file": "/Users/khushigupta/legacy-react-test/src/BadComponent.jsx",
+    "message": "Deprecated Api componentWillUpdate",
+    "deprecatedIn": "16.3",
+    "removedIn": "17.0",
+    "alternative": "Use componentDidUpdate or getSnapshotBeforeUpdate instead",
+    "severity": "error"
+  },
+  {
+    "api": "UNSAFE_componentWillMount",
+    "line": 19,
+    "file": "/Users/khushigupta/legacy-react-test/src/BadComponent.jsx",
+    "message": "Deprecated Api UNSAFE_componentWillMount",
+    "deprecatedIn": "16.3",
+    "alternative": "Use componentDidMount or constructor. This unsafe version will be removed in a future major version.",
+    "severity": "warning"
+  }
+]
