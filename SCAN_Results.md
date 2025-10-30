@@ -18,7 +18,14 @@
 
  ### react-select (28k ⭐)
 - **3 issues found** ✅
-- rendering (1 issues)
-- patterns (2 issues)
+- rendering: 1 issues
+- patterns: 2 issues
+
+ ### styled-components (41k ⭐)
+- **24 issues found** ✅
+- rendering: 1 issues
+- patterns: 20 issues
+- Lifecycle Methods: 2 issues
+- Legacy Context: 1 issue
 
   
