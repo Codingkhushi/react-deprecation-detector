@@ -2,7 +2,7 @@
 
 ## Projects Scanned
 
-### react-google-maps (4.6k ⭐)
+### react-google-maps (4.6k ⭐) (https://github.com/tomchentw/react-google-maps/issues/1106)
 - **70 issues found**
 - Legacy Context: 50
 - Lifecycle methods: 7
@@ -21,7 +21,7 @@
 - rendering: 1 issues
 - patterns: 2 issues
 
- ### styled-components (41k ⭐)
+ ### styled-components (41k ⭐) (https://github.com/styled-components/styled-components/issues/5611)
 - **24 issues found** ✅
 - rendering: 1 issues
 - patterns: 20 issues
